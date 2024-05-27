@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ft_package
+Version: 0.0.1
+Summary: A sample test package
+Home-page: https://github.com/fgiulian/ft_package
+Author: Literally my father: eagle!
+Author-email: dehpeffò@vedrai.pontedera
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
